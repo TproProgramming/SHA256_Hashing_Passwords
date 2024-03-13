@@ -1,6 +1,6 @@
-# SHA-256 Password Hashing Tool
+# SHA-256 Password Hashing Tool with Salting
 
-This Python script is a simple tool to hash passwords using the Secure Hashing Algorithm 256-bit (SHA-256). It provides a secure way to store passwords by converting them into a fixed-length hash value.
+This Python script is a simple tool to hash passwords using the Secure Hashing Algorithm 256-bit (SHA-256). It provides a secure way to store passwords by converting them into a fixed-length hash value. The updated code now salts the password before hashing it, allowing for more security. 
 
 ## Usage
 
