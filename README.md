@@ -20,4 +20,4 @@ This Python script is a simple tool to hash passwords using the Secure Hashing A
 3. Run the script using the following command:
 
 ```bash
-python password_hash.py
+python hashing_passwords.py
